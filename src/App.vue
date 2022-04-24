@@ -3,7 +3,7 @@
 		name: 'Weather App',
 		data() {
 			return {
-				api_key: 'd1640eb1708ff2da72b6182e8f0342ea',
+				api_key: 'openweatheropentoken', // this is a your openweather api token
 				url_base: 'https://api.openweathermap.org/data/2.5/',
 				query: '',
 				weather: {}
