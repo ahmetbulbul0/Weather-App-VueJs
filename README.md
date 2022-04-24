@@ -1,4 +1,5 @@
 # Weather-App-Vue
+![weather_app_vue_1920x1080_poster](./git-images/weather_app_vue_1920x1080_poster.png)
 
 This template should help get you started developing with Vue 3 in Vite.
 
