@@ -16,6 +16,16 @@
 ```sh
 npm install
 ```
+
+### add your openweather api key (to use app) 
+
+*if you dont have an openweather api key you easily get an api key with go to OpenWeather website. [Click Here To Go OpenWeather WebSite](https://openweathermap.org/)*
+
+```sh
+1. open "App.vue" file
+2. Replace "api_key" variable with your openweather api key
+```
+
 ### to run project in development environment
 ```sh
 npm run dev
