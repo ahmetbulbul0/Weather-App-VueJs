@@ -2,24 +2,30 @@
 
 # Vue-Weather-App
 
-***Vue Weather App Project***
+**_Vue Weather App_**
 
 ## Technologies
-* **Html**
-* **Css**
-* **Js**
-* **Vue**
+
+-   **Html**
+-   **Css**
+-   **JavaScript**
+-   **Vue**
+
+## Dependencies
+
+-   Vue-Router
 
 ## Project Setup Process
 
-### install npm (for javascript packages)
+### Install npm (for npm packages)
+
 ```sh
 npm install
 ```
 
-### add your openweather api key (to use app) 
+### add your openweather api key (to use app)
 
-*if you dont have an openweather api key you easily get an api key with go to OpenWeather website. [Click Here To Go OpenWeather WebSite](https://openweathermap.org/)*
+_if you dont have an openweather api key you easily get an api key with go to OpenWeather website. [Click Here To Go OpenWeather WebSite](https://openweathermap.org/)_
 
 ```sh
 1. open "App.vue" file
@@ -27,20 +33,19 @@ npm install
 ```
 
 ### to run project in development environment
+
 ```sh
 npm run dev
 ```
 
 ### Compile and Minify for Production
+
 ```sh
 npm run build
 ```
 
 ### Lint with
+
 ```sh
 npm run lint
 ```
-
-## Dependencies
-* Vue
-* Vue-Router
