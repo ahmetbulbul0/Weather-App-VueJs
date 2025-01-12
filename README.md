@@ -1,29 +1,27 @@
-![vue_weather_app_1366x768_poster](./git-images/vue_weather_app_1366x768_poster.png)
+# Weather-App-VueJs
 
-# Vue-Weather-App
+An interactive and dynamic quiz application built with Vue.js, designed for engaging learning and testing experiences. This project features a responsive user interface, real-time feedback, customizable question sets, and result tracking. Ideal for educational platforms, training programs, or casual entertainment, it offers seamless performance and easy scalability.
 
-**_Vue Weather App_**
+## Technologies (languages & frameworks)
 
-## Technologies
+- Html
+- Css
+- JavaScript
+- VueJs
 
--   **Html**
--   **Css**
--   **JavaScript**
--   **Vue**
+## Packages & Libraries
 
-## Dependencies
+- Vue-Router
 
--   Vue-Router
+## Setup
 
-## Project Setup Process
-
-### Install npm (for npm packages)
+1. Install packages
 
 ```sh
 npm install
 ```
 
-### add your openweather api key (to use app)
+2. Add Your OpenWeather Api Key (To Use App)
 
 _if you dont have an openweather api key you easily get an api key with go to OpenWeather website. [Click Here To Go OpenWeather WebSite](https://openweathermap.org/)_
 
@@ -32,20 +30,21 @@ _if you dont have an openweather api key you easily get an api key with go to Op
 2. Replace "api_key" variable with your openweather api key
 ```
 
-### to run project in development environment
+
+3. Run Project
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Essential Terminal Commands
+
+- Type-Check, Compile and Minify for Production
 
 ```sh
 npm run build
 ```
 
-### Lint with
+## Pages
 
-```sh
-npm run lint
-```
+- Home [localhost:5173/](http://localhost:5173/)
